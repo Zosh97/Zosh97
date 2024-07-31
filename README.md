@@ -26,7 +26,7 @@ Feel free to reach out to me for collaboration or just to chat about AI, NLP, an
 
 ### Connect with me
 <div align="center">
-<a href="www.linkedin.com/in/zohré-shafiee-1b58731a2" target="_blank">
+<a href="(https://www.linkedin.com/in/zohr%C3%A9-shafiee-1b58731a2/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:zo.shafiee95@gmail.com">
